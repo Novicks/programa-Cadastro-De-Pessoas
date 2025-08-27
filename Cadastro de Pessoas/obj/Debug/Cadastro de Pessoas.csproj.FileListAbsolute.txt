@@ -1,0 +1,10 @@
+C:\Users\aluno\Pictures\Cadastro de Pessoas\Cadastro de Pessoas\bin\Debug\Cadastro de Pessoas.exe.config
+C:\Users\aluno\Pictures\Cadastro de Pessoas\Cadastro de Pessoas\bin\Debug\Cadastro de Pessoas.exe
+C:\Users\aluno\Pictures\Cadastro de Pessoas\Cadastro de Pessoas\bin\Debug\Cadastro de Pessoas.pdb
+C:\Users\aluno\Pictures\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro de Pessoas.csproj.AssemblyReference.cache
+C:\Users\aluno\Pictures\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro_de_Pessoas.Form1.resources
+C:\Users\aluno\Pictures\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro_de_Pessoas.Properties.Resources.resources
+C:\Users\aluno\Pictures\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro de Pessoas.csproj.GenerateResource.cache
+C:\Users\aluno\Pictures\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro de Pessoas.csproj.CoreCompileInputs.cache
+C:\Users\aluno\Pictures\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro de Pessoas.exe
+C:\Users\aluno\Pictures\Cadastro de Pessoas\Cadastro de Pessoas\obj\Debug\Cadastro de Pessoas.pdb

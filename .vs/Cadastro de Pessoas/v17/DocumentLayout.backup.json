@@ -1,0 +1,131 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\aluno\\Pictures\\Cadastro de Pessoas\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{17146D83-B2A1-4A65-A9E6-2F919CAFDECA}|Cadastro de Pessoas\\Cadastro de Pessoas.csproj|c:\\users\\aluno\\pictures\\cadastro de pessoas\\cadastro de pessoas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17146D83-B2A1-4A65-A9E6-2F919CAFDECA}|Cadastro de Pessoas\\Cadastro de Pessoas.csproj|solutionrelative:cadastro de pessoas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17146D83-B2A1-4A65-A9E6-2F919CAFDECA}|Cadastro de Pessoas\\Cadastro de Pessoas.csproj|c:\\users\\aluno\\pictures\\cadastro de pessoas\\cadastro de pessoas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{17146D83-B2A1-4A65-A9E6-2F919CAFDECA}|Cadastro de Pessoas\\Cadastro de Pessoas.csproj|solutionrelative:cadastro de pessoas\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17146D83-B2A1-4A65-A9E6-2F919CAFDECA}|Cadastro de Pessoas\\Cadastro de Pessoas.csproj|c:\\users\\aluno\\pictures\\cadastro de pessoas\\cadastro de pessoas\\database\\pessoadatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17146D83-B2A1-4A65-A9E6-2F919CAFDECA}|Cadastro de Pessoas\\Cadastro de Pessoas.csproj|solutionrelative:cadastro de pessoas\\database\\pessoadatabase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17146D83-B2A1-4A65-A9E6-2F919CAFDECA}|Cadastro de Pessoas\\Cadastro de Pessoas.csproj|c:\\users\\aluno\\pictures\\cadastro de pessoas\\cadastro de pessoas\\models\\pessoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17146D83-B2A1-4A65-A9E6-2F919CAFDECA}|Cadastro de Pessoas\\Cadastro de Pessoas.csproj|solutionrelative:cadastro de pessoas\\models\\pessoabll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17146D83-B2A1-4A65-A9E6-2F919CAFDECA}|Cadastro de Pessoas\\Cadastro de Pessoas.csproj|c:\\users\\aluno\\pictures\\cadastro de pessoas\\cadastro de pessoas\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17146D83-B2A1-4A65-A9E6-2F919CAFDECA}|Cadastro de Pessoas\\Cadastro de Pessoas.csproj|solutionrelative:cadastro de pessoas\\models\\pessoa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{17146D83-B2A1-4A65-A9E6-2F919CAFDECA}|Cadastro de Pessoas\\Cadastro de Pessoas.csproj|c:\\users\\aluno\\pictures\\cadastro de pessoas\\cadastro de pessoas\\models\\erro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{17146D83-B2A1-4A65-A9E6-2F919CAFDECA}|Cadastro de Pessoas\\Cadastro de Pessoas.csproj|solutionrelative:cadastro de pessoas\\models\\erro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 238,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "PessoaBLL.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Pictures\\Cadastro de Pessoas\\Cadastro de Pessoas\\Models\\PessoaBLL.cs",
+              "RelativeDocumentMoniker": "Cadastro de Pessoas\\Models\\PessoaBLL.cs",
+              "ToolTip": "C:\\Users\\aluno\\Pictures\\Cadastro de Pessoas\\Cadastro de Pessoas\\Models\\PessoaBLL.cs",
+              "RelativeToolTip": "Cadastro de Pessoas\\Models\\PessoaBLL.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAcwA4AAAAmAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:34:54.613Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Pictures\\Cadastro de Pessoas\\Cadastro de Pessoas\\Form1.cs",
+              "RelativeDocumentMoniker": "Cadastro de Pessoas\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno\\Pictures\\Cadastro de Pessoas\\Cadastro de Pessoas\\Form1.cs",
+              "RelativeToolTip": "Cadastro de Pessoas\\Form1.cs",
+              "ViewState": "AgIAADcAAAAAAAAAAADwv1UAAABJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:59:13.78Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PessoaDatabase.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Pictures\\Cadastro de Pessoas\\Cadastro de Pessoas\\Database\\PessoaDatabase.cs",
+              "RelativeDocumentMoniker": "Cadastro de Pessoas\\Database\\PessoaDatabase.cs",
+              "ToolTip": "C:\\Users\\aluno\\Pictures\\Cadastro de Pessoas\\Cadastro de Pessoas\\Database\\PessoaDatabase.cs",
+              "RelativeToolTip": "Cadastro de Pessoas\\Database\\PessoaDatabase.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAABoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:17:12.262Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Pessoa.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Pictures\\Cadastro de Pessoas\\Cadastro de Pessoas\\Models\\Pessoa.cs",
+              "RelativeDocumentMoniker": "Cadastro de Pessoas\\Models\\Pessoa.cs",
+              "ToolTip": "C:\\Users\\aluno\\Pictures\\Cadastro de Pessoas\\Cadastro de Pessoas\\Models\\Pessoa.cs",
+              "RelativeToolTip": "Cadastro de Pessoas\\Models\\Pessoa.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T13:09:13.353Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 162,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Erro.cs",
+              "DocumentMoniker": "C:\\Users\\aluno\\Pictures\\Cadastro de Pessoas\\Cadastro de Pessoas\\Models\\Erro.cs",
+              "RelativeDocumentMoniker": "Cadastro de Pessoas\\Models\\Erro.cs",
+              "ToolTip": "C:\\Users\\aluno\\Pictures\\Cadastro de Pessoas\\Cadastro de Pessoas\\Models\\Erro.cs",
+              "RelativeToolTip": "Cadastro de Pessoas\\Models\\Erro.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T14:25:04.003Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "C:\\Users\\aluno\\Pictures\\Cadastro de Pessoas\\Cadastro de Pessoas\\Form1.cs",
+              "RelativeDocumentMoniker": "Cadastro de Pessoas\\Form1.cs",
+              "ToolTip": "C:\\Users\\aluno\\Pictures\\Cadastro de Pessoas\\Cadastro de Pessoas\\Form1.cs [Design]",
+              "RelativeToolTip": "Cadastro de Pessoas\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-08-26T12:53:15.751Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
